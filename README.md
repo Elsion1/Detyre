@@ -1,1 +1,1 @@
-Kjo eshte Readme file
+Ky eshte nje kod java qe ben konvertimin e textit nga lowercase ne uppercase.
